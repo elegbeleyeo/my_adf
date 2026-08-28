@@ -1,0 +1,15 @@
+{
+	"name": "bootcamp-elegbeleye",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a537d146-3090-4f27-886b-62e14a53418d",
+		"tenantId": "ed637cb6-8f8e-4025-8f68-4c7058e9f1f0"
+	}
+}

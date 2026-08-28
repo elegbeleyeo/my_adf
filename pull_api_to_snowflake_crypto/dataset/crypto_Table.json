@@ -1,0 +1,13 @@
+{
+	"name": "crypto_Table",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "crypto_Snowflake",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SnowflakeV2Table",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
