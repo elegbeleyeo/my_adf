@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://api.coingecko.com",
+			"url": "https://wttr.in",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
